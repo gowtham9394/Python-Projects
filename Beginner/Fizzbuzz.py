@@ -1,4 +1,10 @@
-a = int(input())
-b = int(input())
-print(a%b)
-print(a/b)
+for fizzbuzz in range(100):
+    if fizzbuzz % 3 == 0 and fizzbuzz % 5 == 0:
+        print("fizzbuzz")
+        continue
+    elif fizzbuzz % 3 == 0:
+        print("fizz")
+        continue
+    elif fizzbuzz % 4 == 0:
+        print("buzz")
+    print(fizzbuzz)
