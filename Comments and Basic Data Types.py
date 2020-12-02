@@ -6,10 +6,6 @@ print("Hello World")
 
 """
 
-"""
-Integers
-
-"""
 # the following are all integers
 
 print(0)
@@ -17,10 +13,6 @@ print(12)
 print(345)
 print(6789)
 
-"""
-Floats
-
-"""
 # the following are all floats
 
 print(1.0) # even this number is a float
@@ -28,20 +20,12 @@ print(2.1)
 print(3.45)
 print(6.789)
 
-"""
-Booleans
-
-"""
 
 # the following are booleans
 
 print(True)
 print(False)
 
-"""
-Strings
-
-"""
 
 # the following are strings
 
