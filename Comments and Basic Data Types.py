@@ -15,7 +15,7 @@ print(6789)
 
 # the following are all floats
 
-print(1.0) # even this number is a float
+print(1.0)         # even this number is a float
 print(2.1)
 print(3.45)
 print(6.789)
