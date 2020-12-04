@@ -20,12 +20,10 @@ print(2.1)
 print(3.45)
 print(6.789)
 
-
 # the following are booleans
 
 print(True)
 print(False)
-
 
 # the following are strings
 
