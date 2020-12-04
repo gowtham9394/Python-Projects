@@ -18,8 +18,8 @@ print( num1, num2)                 # you can print multiple items using commas
 
 # storing a boolean into a variable
 
-cup = True
-print(cup)
+mug = True
+print(mug)
 
 # storing strings into a variable
 
